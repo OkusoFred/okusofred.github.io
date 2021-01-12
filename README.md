@@ -3,7 +3,6 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Сайт студента Нижневартовского Государственного Униваерситета</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -68,7 +67,6 @@
                 <td></td>
             </tr>
         </table>
-
         <table>
             <caption>Вторая таблица из задания 2</caption>
             <tr>
@@ -104,9 +102,6 @@
                 <td colspan="8" class="aquamarine"> </td>
             </tr>
         </table>
-
-
-
         <h2>Формы</h2>
         <h2>ЗАО Птицефабрика №1</h2>
         <form align:center>
@@ -158,7 +153,6 @@
             <input type="file" name="file" id="file-field"><br>
             <input type="reset" value="Очистить"><input type="submit" value="Отправить"><br>
         </form>
-
     </footer>
 </body>
 
